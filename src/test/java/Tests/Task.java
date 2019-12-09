@@ -7,8 +7,14 @@ public class Task {
     //this line is added from Github see you in Intellijy
     }
 
+
     public void hi(){
         System.out.println("Hi from itellijy");
+    }
+
+
+    public String hello(){
+    return "hello from Github";
     }
 
 }
