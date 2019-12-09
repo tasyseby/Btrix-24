@@ -7,4 +7,7 @@ public class Task {
     //this line is added from Github see you in Intellijy
     
     }
+    public String hello(){
+    return "hello from Github";
+    }
 }
